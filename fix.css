@@ -28,7 +28,6 @@ body{
     font-family: 'Oxygen Mono', monospace;
   
     animation: ngantukBos 4s infinite alternate backwards;
-    animation-delay: .5s;
     
 }
 
@@ -41,7 +40,6 @@ body{
     font-family: 'Oxygen Mono', monospace;
   
     animation: jagaKesehatan 4s infinite alternate;
-    animation-delay: .6s;
 }
 
 @keyframes ngantukBos{
