@@ -27,7 +27,7 @@ body{
     color: white;
     font-family: 'Oxygen Mono', monospace;
   
-    animation: ngantukBos 4s infinite alternate backwards;
+    animation: ngantukBos 4s infinite alternate;
     
 }
 
@@ -39,7 +39,7 @@ body{
     color: white;
     font-family: 'Oxygen Mono', monospace;
   
-    animation: jagaKesehatan 4s infinite alternate;
+    animation: jagaKesehatan 4s infinite alternate backwards;
 }
 
 @keyframes ngantukBos{
