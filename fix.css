@@ -40,7 +40,7 @@ body{
     color: white;
     font-family: 'Oxygen Mono', monospace;
   
-    animation: jagaKesehatan 4s infinite alternate backwards;
+    animation: jagaKesehatan 4s infinite alternate;
 }
 
 @keyframes ngantukBos{
