@@ -27,7 +27,7 @@ body{
     color: white;
     font-family: 'Oxygen Mono', monospace;
   
-    animation: ngantukBos 4s infinite alternate;
+    animation: ngantukBos 4s infinite alternate backwards;
     animation-delay: .5s;
     
 }
